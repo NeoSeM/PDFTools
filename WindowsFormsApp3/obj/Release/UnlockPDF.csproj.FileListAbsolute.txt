@@ -1,0 +1,16 @@
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\UnlockPDF.exe.config
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\UnlockPDF.exe
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\UnlockPDF.pdb
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\PdfSharp.dll
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\PDFTools.dll
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\PDFTools.pdb
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\PdfSharp.xml
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\bin\Release\de\PdfSharp.resources.dll
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.csprojAssemblyReference.cache
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.UnlockPdf.resources
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.Properties.Resources.resources
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.csproj.GenerateResource.cache
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.csproj.CoreCompileInputs.cache
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.csproj.CopyComplete
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.exe
+C:\Users\sem\Source\Repos\PDFTools\WindowsFormsApp3\obj\Release\UnlockPDF.pdb
